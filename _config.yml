@@ -9,11 +9,11 @@
 locale                   : "en"
 title                    : "Home"
 title_separator          : "-"
-name                     : "Alex Kendall"
+name                     : "Madjid Sadallah"
 description              : "Research Website and Blog."
-url                      : "//alexgkendall.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "alexgkendall/alexgkendall.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "smadjid/smadjid.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter "alexgkendall"
+  username               : &twitter "smadjid"
 facebook:
   username               :
   app_id                 :
@@ -67,45 +67,43 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-    - "https://twitter.com/alexgkendall"
+    - "https://twitter.com/smadjid"
 
 # Analytics
 analytics:
   provider               : "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : "UA-59463920-2"
+    tracking_id          : 
 
 
 # Site Author
 author:
-  name             : "Alex Kendall"
-  avatar           : "/assets/images/alex.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Computer Vision & Robotics Researcher"
-  location         : "University of Cambridge"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "alexgkendall"
-  google_plus      :
-  google_scholar   : "hE2mTp4AAAAJ"
-  keybase          :
-  instagram        :
-  lastfm           :
-  linkedin         : "alexgkendall"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
-  steam            :
-  tumblr           :
-  twitter          : *twitter
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
+  name             : "Madjid Sadallah"
+  avatar           : "/assets/smadjid.png"
+  bio              : "Research engineer."
+  location         : "Brest, FR"
+  email            : "madjid.sadallah@gmail.com"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:madjid.sadallah@gmail.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      # url: "https://your-website.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      # url: "https://twitter.com/"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      # url: "https://facebook.com/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      # url: "https://github.com/"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      # url: "https://instagram.com/"
+
+
 
 
 # Reading Files
