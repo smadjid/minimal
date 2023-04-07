@@ -1,0 +1,8 @@
+# main links
+main:
+  - title: "Blog"
+    url: /blog/
+  - title: "Talks"
+    url: /talks/
+  - title: "Publications"
+    url: /publications/
