@@ -34,11 +34,11 @@ The workshop [Participatory Design Tool for Learning Dashboards](https://padlad.
 
 # Participation in scientific activities
 ### PADLAD Working group
-**Research, Design, Development. Member**
+*Research, Design, Development. Member*
 
 The PaDLAD WG aims at bringing together multi-disciplinary expertise and channeling efforts towards the development of methods and tools that support the design of learning analytics dashboards. A number of researchers, designers, and educational engineers from different organizations are involved in this effort. 
 
 ### CERIST Digital Library (CERIST DL)
-**Development, Management and Administration. Executive Member**
+*Development, Management and Administration. Executive Member*
 
 CERIST Digital Library is the institutional repository of the Algerian Research Centre on Scientific and Technical Information (CERIST). It provides access to the entire production of CERIST in terms of journal and conference papers, technical and research reports, theses, course materials, etc.
