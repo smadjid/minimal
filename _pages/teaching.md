@@ -29,6 +29,8 @@ The second semester of the course will delve into information systems (IS) and d
 
 By the end of this comprehensive course, students will possess the knowledge and technical skills necessary to confidently pilot the design and implementation of information systems and advance the modernization of institutions.
 
+[Course material](http://www.google.com){: .btn .btn--primary .btn--large}
+
 ## CERIST (Alger)
 ### GNU Linux Operating Systems - PGS IT Security
 * *Years* : 2015-2016, 2016-2017, 2017-2018, 2018-2019, 2019-2020 (5 classes) 
@@ -40,7 +42,8 @@ By the end of this comprehensive course, students will possess the knowledge and
 
 This comprehensive course serves as a fundamental prerequisite for the PGS-Security course, equipping learners with the necessary skills and knowledge to proficiently administer and secure a GNU/Linux environment. The curriculum is structured into two parts, with the first part serving as a refresher course that covers the theoretical foundations of operating systems and delves into the philosophy and workings of UNIX systems. Topics such as file systems, processes, and services are explored in depth, providing a strong foundational understanding of system administration in a GNU/Linux environment. The second part of the course builds on this foundation, covering essential cybersecurity concepts such as best practices, sudo usage, physical equipment access, data encryption, password shadowing, user account and group management, iptable filtering rules, file and directory permissions, and ACLs. By the end of the course, learners will have a well-rounded understanding of system administration and security management in a GNU/Linux environment, making them well-prepared for future studies in computer security.
 
-[Click me](http://www.google.com){: .btn} 
+[Course material](http://www.google.com){: .btn .btn--primary .btn--large}
+
 ### GNU Linux Operating Systems - PGS HPC & Big Data
 * *Years* : 2017-2018, 2018-2019, 2019-2020 (3 classes) 
 * *Average enrollment* : 12 students
@@ -53,6 +56,8 @@ Linux powers the vast majority of high-performance computing systems. This compr
 The course is divided into two complementary parts. The first part provides a refresher course on system administration in a GNU/Linux environment. It covers the fundamental principles of operating systems, including the philosophy and operation of UNIX systems, such as file systems, processes, and services.
 
 The second part delves into the data analysis and HPC-oriented aspects, including advanced techniques for using the Linux Shell, connecting to remote interfaces, scripting, as well as package management and application development. This section focuses on helping learners develop practical skills that can be applied to real-world problems.
+
+[Course material](http://www.google.com){: .btn .btn--primary .btn--large}
 
 ### Big Data Languages - R Language & Tools
 * *Years* : 2017-2018, 2018-2019, 2019-2020 (3 classes) 
@@ -69,3 +74,5 @@ Starting with the basics of R language and RStudio development environment, this
 To perform advanced statistical analysis, the course introduces specific R packages and explores their usage. Additionally, participants will learn how to create scripts for simulating data, testing complex hypotheses, and generating graphical representations using the ggplot library.
 
 The course includes hands-on mini-projects, which involve real data from server logs, to provide a practical understanding of the concepts learned throughout the course. By the end of the course, participants will have a thorough understanding of R and its statistical tools, empowering them to tackle real-world data analysis challenges.
+
+[Course material](http://www.google.com){: .btn .btn--primary .btn--large}
