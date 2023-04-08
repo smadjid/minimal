@@ -18,12 +18,9 @@ feature_row_sava:
     alt: "SAVASTUDIO App"
     title: 'SAVAStudio, 2021.'
     excerpt: "SAVAStudio app"
-    btn_label: "Recorded Talk (youtube)"
+    url: "/_pages/savastudio.md"
+    btn_label: "Details"
     btn_class: "btn--inverse"
-    url: "https://youtu.be/Va-F4qtTQ6g"
-    btn_class2: "btn--inverse"
-    btn_label2: "Workshop (website)"
-    url2: "http://cvpr2021.wad.vision/"
 
 ---
 
