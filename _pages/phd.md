@@ -9,9 +9,8 @@ title: <br><br><br><br><br>PhD Thesis
 permalink: /phd/
 ---
 
-## PhD Thesis (University of Bejaia - Algeria, 2019)
-Topic: Models and Tools for Usage based e-Learning Documents Reengineering 
-Supervisor: Pr. Yannick Prié & Dr. Benoît Encelle
+## Models and Tools for Usage based e-Learning Documents Reengineering  (University of Bejaia - Algeria, 2019)
+### Supervisor: Pr. Yannick Prié & Dr. Benoît Encelle
 
 Providing high-quality content is of utmost importance to drive successful reading. Besides, designing documents that are received the way the author wishes has always been difficult, and the digital world increases this difficulty by multiplying the possibilities related to mixed medias and interactivity. This compels authors to continuously review the  delivered content to meet readers' needs. Yet it remains challenging for them to detect the comprehension barriers that may exist within their documents, and to identify how these latter can be improved accordingly. 
 
