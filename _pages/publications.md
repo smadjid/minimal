@@ -24,7 +24,7 @@ For a complete list of publications, please refer to <a href="https://scholar.go
         (<a href="https://arxiv.org/pdf/sadallah2023generating.pdf" style="color:gray">.pdf</a>)
 </p>
 <div id="sadallah2023generating" style="display:none;">
-<p><div class="highlighter-rouge"><pre class="highlight">
+<small><div class="highlighter-rouge"><pre class="highlight">
 <code>@inproceedings{sadallah2023generating,
   title={Generating LADs that make sense},
   author={Sadallah, Madjid and Gilliot, Jean-Marie},
@@ -34,7 +34,7 @@ For a complete list of publications, please refer to <a href="https://scholar.go
   year={2023},
   organization={ISSN 2184-5026}
 }
-</code></pre></div></p>
+</code></pre></div></small>
 </div>
 
   > <p>
@@ -43,14 +43,14 @@ For a complete list of publications, please refer to <a href="https://scholar.go
         (<a href="https://arxiv.org/pdf/maredj2023set.pdf" style="color:gray">.pdf</a>)
 </p>
 <div id="maredj2023set" style="display:none;">
-<p><div class="highlighter-rouge"><pre class="highlight">
+<small><div class="highlighter-rouge"><pre class="highlight">
 <code>@article{maredj2023set,
   title={A set of rhetorical relationships for educational multimedia document},
   author={Maredj, Azze-eddine and Sadallah, Madjid},
   journal={Revue de l'Information Scientifique et Technique},
   year={2023}
 }
-</code></pre></div></p>
+</code></pre></div></small>
 </div>
 
   > <p>
@@ -59,7 +59,7 @@ For a complete list of publications, please refer to <a href="https://scholar.go
         (<a href="https://arxiv.org/pdf/gilliot2023framework.pdf" style="color:gray">.pdf</a>)
 </p>
 <div id="gilliot2023framework" style="display:none;">
-<p><div class="highlighter-rouge"><pre class="highlight">
+<small><div class="highlighter-rouge"><pre class="highlight">
 <code>@article{gilliot2023framework,
   title={A framework for co-designing effective LADs supporting sensemaking and decision making},
   author={Gilliot, Jean-Marie and Sadallah, Madjid},
@@ -67,7 +67,7 @@ For a complete list of publications, please refer to <a href="https://scholar.go
   year={2023},
   publisher={Inderscience}
 }
-</code></pre></div></p>
+</code></pre></div></small>
 </div>
 
 ## 2022
@@ -77,7 +77,7 @@ For a complete list of publications, please refer to <a href="https://scholar.go
         (<a href="https://arxiv.org/pdf/sadallah2022designing.pdf" style="color:gray">.pdf</a>)
 </p>
 <div id="sadallah2022designing" style="display:none;">
-<p><div class="highlighter-rouge"><pre class="highlight">
+<small><div class="highlighter-rouge"><pre class="highlight">
 <code>@inproceedings{sadallah2022designing,
   title={Designing LADs That Promote Sensemaking: A Participatory Tool},
   author={Sadallah, Madjid and Gilliot, Jean-Marie and Iksal, Sébastien and Quelennec, Katia and Vermeulen, Mathieu and Neyssensas, Laurent and Aubert, Olivier and Venant, Rémi},
@@ -86,7 +86,7 @@ For a complete list of publications, please refer to <a href="https://scholar.go
   year={2022},
   organization={Springer International Publishing Cham}
 }
-</code></pre></div></p>
+</code></pre></div></small>
 </div>
 
 
@@ -98,7 +98,7 @@ For a complete list of publications, please refer to <a href="https://scholar.go
         (<a href="https://asjp.cerist.dz/en/article/140397" style="color:gray">.pdf</a>)
 </p>
 <div id="maredj2021cinquieme" style="display:none;">
-<p><div class="highlighter-rouge"><pre class="highlight">
+<small><div class="highlighter-rouge"><pre class="highlight">
 <code>@article{maredj2021cinquieme,
   title={Une cinqui{\`e}me dimension pour les documents multim{\'e}dia: La dimension annotation},
   author={MAREDJ, Azze-Eddine and Madjid, Sadallah and Lamia, Hamouche},
@@ -109,7 +109,7 @@ For a complete list of publications, please refer to <a href="https://scholar.go
   year={2021},
   publisher={ASJP}
 }
-</code></pre></div></p>
+</code></pre></div></small>
 </div>
 
 ## 2020
@@ -119,7 +119,7 @@ For a complete list of publications, please refer to <a href="https://scholar.go
         (<a href="https://www.inderscienceonline.com/doi/abs/10.1504/IJTEL.2020.104948" style="color:gray">.pdf</a>)
 </p>
 <div id="sadallah2020leveraging" style="display:none;">
-<p><div class="highlighter-rouge"><pre class="highlight">
+<small><div class="highlighter-rouge"><pre class="highlight">
 <code>@article{sadallah2020leveraging,
   title={Leveraging Learners' Activity Logs for Course Reading Analytics Using Session-Based Indicators},
   author={Sadallah, Madjid and Encelle, Beno{\^\i}t and Maredj, Azze-Eddine and Pri{\'e}, Yannick},
@@ -130,7 +130,7 @@ For a complete list of publications, please refer to <a href="https://scholar.go
   year={2020},
   publisher={Inderscience}
 }
-</code></pre></div></p>
+</code></pre></div></small>
 </div>
 
   > <p>
@@ -139,7 +139,7 @@ For a complete list of publications, please refer to <a href="https://scholar.go
         (<a href="https://link.springer.com/article/10.1007/s11423-020-09849-1" style="color:gray">.pdf</a>)
 </p>
 <div id="sadallah2020towards" style="display:none;">
-<p><div class="highlighter-rouge"><pre class="highlight">
+<small><div class="highlighter-rouge"><pre class="highlight">
 <code>@article{sadallah2020towards,
   title={Towards fine-grained reading dashboards for online course revision},
   author={Sadallah, Madjid and Encelle, Beno{\^\i}t and Maredj, Azze-Eddine and Pri{\'e}, Yannick},
@@ -149,8 +149,9 @@ For a complete list of publications, please refer to <a href="https://scholar.go
   year={2020},
   publisher={Springer US}
 }
-</code></pre></div></p>
+</code></pre></div></small>
 </div>
+
 ## 2019
   > <p>
     Madjid Sadallah. "Models and Tools for Usage-based e-Learning Documents Reengineering." PhD thesis, University of Bejaia - Algeria, 2019<br>
@@ -158,14 +159,14 @@ For a complete list of publications, please refer to <a href="https://scholar.go
         (<a href="https://arxiv.org/pdf/sadallah2019models.pdf" style="color:gray">.pdf</a>)
 </p>
 <div id="sadallah2019models" style="display:none;">
-<p><div class="highlighter-rouge"><pre class="highlight">
+<small><div class="highlighter-rouge"><pre class="highlight">
 <code>@phdthesis{sadallah2019models,
   title={Models and Tools for Usage-based e-Learning Documents Reengineering},
   author={Sadallah, Madjid},
   year={2019},
   school={University of Bejaia - Algeria}
 }
-</code></pre></div></p>
+</code></pre></div></small>
 </div>
 
 ## 2015
@@ -175,7 +176,7 @@ For a complete list of publications, please refer to <a href="https://scholar.go
         (<a href="https://arxiv.org/pdf/sadallah2015towards.pdf" style="color:gray">.pdf</a>)
 </p>
 <div id="sadallah2015towards" style="display:none;">
-<p><div class="highlighter-rouge"><pre class="highlight">
+<small><div class="highlighter-rouge"><pre class="highlight">
 <code>@inproceedings{sadallah2015towards,
   title={Towards reading session-based indicators in educational reading analytics},
   author={Sadallah, Madjid and Encelle, Beno{\^\i}t and Maredj, Azze-Eddine and Pri{\'e}, Yannick},
@@ -184,7 +185,7 @@ For a complete list of publications, please refer to <a href="https://scholar.go
   year={2015},
   organization={Springer International Publishing}
 }
-</code></pre></div></p>
+</code></pre></div></small>
 </div>
 
 
@@ -195,7 +196,7 @@ For a complete list of publications, please refer to <a href="https://scholar.go
         (<a href="https://dl.acm.org/doi/10.1145/2494266.2494288" style="color:gray">.pdf</a>)
 </p>
 <div id="sadallah2013framework" style="display:none;">
-<p><div class="highlighter-rouge"><pre class="highlight">
+<small><div class="highlighter-rouge"><pre class="highlight">
 <code>@inproceedings{sadallah2013framework,
   title={A framework for usage-based document reengineering},
   author={Sadallah, Madjid and Encelle, Beno{\^\i}t and Mared, Azze-Eddine and Pri{\'e}, Yannick},
@@ -203,7 +204,7 @@ For a complete list of publications, please refer to <a href="https://scholar.go
   pages={99--102},
   year={2013}
 }
-</code></pre></div></p>
+</code></pre></div></small>
 </div>
 
 ## 2012
@@ -213,7 +214,7 @@ For a complete list of publications, please refer to <a href="https://scholar.go
         (<a href="https://link.springer.com/article/10.1007/s11042-012-1219-9" style="color:gray">.pdf</a>)
 </p>
 <div id="sadallah2012chm" style="display:none;">
-<p><div class="highlighter-rouge"><pre class="highlight">
+<small><div class="highlighter-rouge"><pre class="highlight">
 <code>@article{sadallah2012chm,
   title={CHM: an annotation- and component-based hypervideo model for the Web},
   author={Sadallah, Madjid and Aubert, Olivier and Pri{\'e}, Yannick},
@@ -222,7 +223,7 @@ For a complete list of publications, please refer to <a href="https://scholar.go
   year={2012},
   publisher={Springer Netherlands}
 }
-</code></pre></div></p>
+</code></pre></div></small>
 </div>
 
 
@@ -233,7 +234,7 @@ For a complete list of publications, please refer to <a href="https://scholar.go
         (<a href="https://dl.acm.org/doi/10.1145/2034691.2034702" style="color:gray">.pdf</a>)
 </p>
 <div id="sadallah2011component" style="display:none;">
-<p><div class="highlighter-rouge"><pre class="highlight">
+<small><div class="highlighter-rouge"><pre class="highlight">
 <code>@inproceedings{sadallah2011component,
   title={Component-based hypervideo model: high-level operational specification of hypervideos},
   author={Sadallah, Madjid and Aubert, Olivier and Pri{\'e}, Yannick},
@@ -241,7 +242,7 @@ For a complete list of publications, please refer to <a href="https://scholar.go
   pages={53--56},
   year={2011}
 }
-</code></pre></div></p>
+</code></pre></div></small>
 </div>
 
   > <p>
@@ -250,7 +251,7 @@ For a complete list of publications, please refer to <a href="https://scholar.go
         (<a href="https://hal.archives-ouvertes.fr/hal-00636834/document" style="color:gray">.pdf</a>)
 </p>
 <div id="sadallah2011hypervideo" style="display:none;">
-<p><div class="highlighter-rouge"><pre class="highlight">
+<small><div class="highlighter-rouge"><pre class="highlight">
 <code>@inproceedings{sadallah2011hypervideo,
   title={Hypervideo and Annotations on the Web},
   author={Sadallah, Madjid and Aubert, Olivier and Pri{\'e}, Yannick},
@@ -259,7 +260,7 @@ For a complete list of publications, please refer to <a href="https://scholar.go
   year={2011},
   organization={IEEE}
 }
-</code></pre></div></p>
+</code></pre></div></small>
 </div>
 
 ## 2010
@@ -269,7 +270,7 @@ For a complete list of publications, please refer to <a href="https://scholar.go
         (<a href="https://arxiv.org/pdf/maredj2010mediastudio.pdf" style="color:gray">.pdf</a>)
 </p>
 <div id="maredj2010mediastudio" style="display:none;">
-<p><div class="highlighter-rouge"><pre class="highlight">
+<small><div class="highlighter-rouge"><pre class="highlight">
 <code>@article{maredj2010mediastudio,
   title={MediaStudio: Un systeme d'edition et de presentation de documents multimedia interactifs},
   author={Maredj, Azze-Eddine and Tonkin, Nourreddine and Sadallah, Madjid},
@@ -278,7 +279,7 @@ For a complete list of publications, please refer to <a href="https://scholar.go
   pages={25--47},
   year={2010}
 }
-</code></pre></div></p>
+</code></pre></div></small>
 </div>
 
 ## 2008
@@ -288,7 +289,7 @@ For a complete list of publications, please refer to <a href="https://scholar.go
         (<a href="https://arxiv.org/pdf/maredj2008flexible.pdf" style="color:gray">.pdf</a>)
 </p>
 <div id="maredj2008flexible" style="display:none;">
-<p><div class="highlighter-rouge"><pre class="highlight">
+<small><div class="highlighter-rouge"><pre class="highlight">
 <code>@inproceedings{maredj2008flexible,
   title={A flexible distance for the spatial placement in a multimedia document},
   author={Maredj, A-E and Nourreddine, T and Sadallah, M and Alimazighi, Z},
@@ -297,7 +298,7 @@ For a complete list of publications, please refer to <a href="https://scholar.go
   year={2008},
   organization={IEEE}
 }
-</code></pre></div></p>
+</code></pre></div></small>
 </div>
 
   > <p>
@@ -306,7 +307,7 @@ For a complete list of publications, please refer to <a href="https://scholar.go
         (<a href="https://arxiv.org/pdf/maredj2008modele.pdf" style="color:gray">.pdf</a>)
 </p>
 <div id="maredj2008modele" style="display:none;">
-<p><div class="highlighter-rouge"><pre class="highlight">
+<small><div class="highlighter-rouge"><pre class="highlight">
 <code>@inproceedings{maredj2008modele,
   title={Un mod{\`e}le logique de documents pour les interactions multim{\'e}dia},
   author={MAREDJ, Azze-Eddine and ALIMAZIGHI, Zaia and TONKIN, Nourredine and SADALLAH, Madjid},
@@ -315,7 +316,7 @@ For a complete list of publications, please refer to <a href="https://scholar.go
   year={2008},
   organization={Hammamet, Tunisia.}
 }
-</code></pre></div></p>
+</code></pre></div></small>
 </div>
 
   > <p>
@@ -324,7 +325,7 @@ For a complete list of publications, please refer to <a href="https://scholar.go
         (<a href="https://arxiv.org/pdf/tonkin2008modele.pdf" style="color:gray">.pdf</a>)
 </p>
 <div id="tonkin2008modele" style="display:none;">
-<p><div class="highlighter-rouge"><pre class="highlight">
+<small><div class="highlighter-rouge"><pre class="highlight">
 <code>@inproceedings{tonkin2008modele,
   title={Un mod{\`e}le logique de documents pour les interactions multim{\'e}dia},
   author={Tonkin, Nourredine and Sadallah, Madjid and Maredj, Azze-Eddine and Alimazighi, Zaia},
@@ -332,7 +333,7 @@ For a complete list of publications, please refer to <a href="https://scholar.go
   year={2008},
   organization={JTEA}
 }
-</code></pre></div></p>
+</code></pre></div></small>
 </div>
 
 ## 2007
@@ -342,7 +343,7 @@ For a complete list of publications, please refer to <a href="https://scholar.go
         (<a href="https://arxiv.org/pdf/maredj2007extension.pdf" style="color:gray">.pdf</a>)
 </p>
 <div id="maredj2007extension" style="display:none;">
-<p><div class="highlighter-rouge"><pre class="highlight">
+<small><div class="highlighter-rouge"><pre class="highlight">
 <code>@inproceedings{maredj2007extension,
   title={Extension of the Wahl-Rothermel temporal model for the multimedia documents},
   author={MAREDJ, Azze-Eddine and ALIMAZIGHI, Zaia and SADALLAH, Madjid},
@@ -350,7 +351,7 @@ For a complete list of publications, please refer to <a href="https://scholar.go
   pages={257--261},
   year={2007}
 }
-</code></pre></div></p>
+</code></pre></div></small>
 </div>
 
 
