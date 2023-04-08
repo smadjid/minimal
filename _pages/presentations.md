@@ -5,7 +5,7 @@ comments: true
 share: true
 author_profile: false
 title: Presentations & slides
-permalink: /prsenetations/
+permalink: /presentations/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
