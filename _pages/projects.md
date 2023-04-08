@@ -35,7 +35,7 @@ feature_row_sava:
   - image_path: /assets/images/savastudio.png
     alt: "SAVASTUDIO App"
     title: 'SAVAStudio, 2021.'
-    excerpt: "SAVAStudio app"
+    excerpt: "SAVAStudio is an innovative tool designed to help instructors better manage their classes and facilitate student engagement in real-time. The tool is based on a co-design approach with teachers to ensure that it meets the needs and expectations of educators. With SAVAStudio, instructors can orchestrate their classes, manage group work, and engage with students in a collaborative and interactive way. The tool has been evaluated through a comprehensive study involving both teachers and learners, which has demonstrated its effectiveness in improving classroom management and student engagement."
     url: "/_pages/savastudio.md"
     btn_label: "Details"
     btn_class: "btn--inverse"
