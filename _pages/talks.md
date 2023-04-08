@@ -4,8 +4,8 @@ read_time: false
 comments: true
 share: true
 author_profile: false
-title: Selected Talks
-permalink: /talks/
+title: Presentations & slides
+permalink: /prsenetations/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
