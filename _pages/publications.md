@@ -18,7 +18,7 @@ For a complete list of publications, please refer to <a href="https://scholar.go
 # 2023
   > Madjid Sadallah and Jean-Marie Gilliot. "Generating LADs that make sense." In Proceedings of the 15th International Conference on Computer Supported Education CSEDU 2023, pages 35-46<br>
     <a style="color:gray;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2023generating');" class="btn btn--info">bibtex</a>
-        <a href="https://arxiv.org/pdf/sadallah2023generating.pdf" style="color:gray" class="btn btn--warning">.pdf</a>
+        <a href="https://csedu.scitevents.org/" style="color:gray" class="btn btn--warning">CSEDU 2023</a>
 
 <div id="sadallah2023generating" style="display:none;">
 <small><div class="highlighter-rouge"><pre class="highlight">
@@ -36,7 +36,7 @@ For a complete list of publications, please refer to <a href="https://scholar.go
 
   > Azze-eddine Maredj and Madjid Sadallah. "A set of rhetorical relationships for educational multimedia document." Revue de l'Information Scientifique et Technique<br>
     <a style="color:gray;cursor: pointer; cursor: hand;" onclick="toggle_visibility('maredj2023set');" class="btn btn--info">bibtex</a>
-        <a href="https://arxiv.org/pdf/maredj2023set.pdf" style="color:gray" class="btn btn--warning">.pdf</a>
+        <a href="https://www.asjp.cerist.dz/en/PresentationRevue/134" style="color:gray" class="btn btn--warning">Listed to appear</a>
 
 <div id="maredj2023set" style="display:none;">
 <small><div class="highlighter-rouge"><pre class="highlight">
@@ -51,7 +51,7 @@ For a complete list of publications, please refer to <a href="https://scholar.go
 
   > Jean-Marie Gilliot and Madjid Sadallah. "A framework for co-designing effective LADs supporting sensemaking and decision making." International Journal of Learning Technology<br>
     <a style="color:gray;cursor: pointer; cursor: hand;" onclick="toggle_visibility('gilliot2023framework');" class="btn btn--info">bibtex</a>
-        <a href="https://arxiv.org/pdf/gilliot2023framework.pdf" style="color:gray" class="btn btn--warning">.pdf</a>
+        
 
 <div id="gilliot2023framework" style="display:none;">
 <small><div class="highlighter-rouge"><pre class="highlight">
@@ -68,7 +68,7 @@ For a complete list of publications, please refer to <a href="https://scholar.go
 # 2022
   > Madjid Sadallah, Jean-Marie Gilliot, Sébastien Iksal, Katia Quelennec, Mathieu Vermeulen, Laurent Neyssensas, Olivier Aubert and Rémi Venant. "Designing LADs That Promote Sensemaking: A Participatory Tool." In Educating for a New Future: Making Sense of Technology-Enhanced Learning Adoption: 17th European Conference on Technology Enhanced Learning, EC-TEL 2022, Toulouse, France, September 12--16, 2022, Proceedings. Springer International Publishing Cham, 2022. pp. 587--593<br>
     <a style="color:gray;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2022designing');" class="btn btn--info">bibtex</a>
-        <a href="https://arxiv.org/pdf/sadallah2022designing.pdf" style="color:gray" class="btn btn--warning">.pdf</a>
+        <a href="/media/papers/sadallah2022designing.pdf" style="color:gray" class="btn btn--warning">.pdf</a>
 
 <div id="sadallah2022designing" style="display:none;">
 <small><div class="highlighter-rouge"><pre class="highlight">
@@ -108,7 +108,7 @@ For a complete list of publications, please refer to <a href="https://scholar.go
 # 2020
   > Sadallah, Madjid and Encelle, Benoît and Maredj, Azze-Eddine and Prié, Yannick. "Leveraging Learners' Activity Logs for Course Reading Analytics Using Session-Based Indicators." International Journal of Technology Enhanced Learning (IJTEL) 12.1 (2020): 53-78<br>
     <a style="color:gray;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2020leveraging');" class="btn btn--info">bibtex</a>
-        <a href="https://www.inderscienceonline.com/doi/abs/10.1504/IJTEL.2020.104948" style="color:gray" class="btn btn--warning">.pdf</a>
+        <a href="sadallah2020laveraging.pdf" style="color:gray" class="btn btn--warning">.pdf</a>
 
 <div id="sadallah2020leveraging" style="display:none;">
 <small><div class="highlighter-rouge"><pre class="highlight">
@@ -178,10 +178,29 @@ For a complete list of publications, please refer to <a href="https://scholar.go
 </div>
 
 
+# 2014
+> Sadallah, M., Aubert, O., & Prié, Y. (2014). CHM: an annotation-and component-based hypervideo model for the Web. Multimedia tools and applications, 70, 869-903. <br>
+    <a style="color:gray;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2014chm');" class="btn btn--info">bibtex</a>
+        <a href="sadallah2014chm.pdf">.pdf</a>
+
+<div id="sadallah2014chm" style="display:none;">
+<small><div class="highlighter-rouge"><pre class="highlight">
+<code>@article{sadallah2014chm,
+  title={CHM: an annotation-and component-based hypervideo model for the Web},
+  author={Sadallah, Madjid and Aubert, Olivier and Pri{\'e}, Yannick},
+  journal={Multimedia tools and applications},
+  volume={70},
+  pages={869--903},
+  year={2014},
+  publisher={Springer}
+}
+</code></pre></div></small>
+</div>
+
 # 2013
   > Madjid Sadallah, Benoît Encelle, Azze-Eddine Mared and Yannick Prié. "A framework for usage-based document reengineering." In Proceedings of the 2013 ACM symposium on Document engineering, pages 99-102, 2013<br>
     <a style="color:gray;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2013framework');" class="btn btn--info">bibtex</a>
-        <a href="https://dl.acm.org/doi/10.1145/2494266.2494288" style="color:gray" class="btn btn--warning">.pdf</a>
+        <a href="sadallah2013framework.pdf" style="color:gray" class="btn btn--warning">.pdf</a>
 
 <div id="sadallah2013framework" style="display:none;">
 <small><div class="highlighter-rouge"><pre class="highlight">
@@ -195,29 +214,12 @@ For a complete list of publications, please refer to <a href="https://scholar.go
 </code></pre></div></small>
 </div>
 
-# 2012
-> Madjid Sadallah, Olivier Aubert and Yannick Prié. "CHM: an annotation- and component-based hypervideo model for the Web." Multimedia Tools and Applications, pages 1-35, 2012<br>
-    <a style="color:gray;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2012chm');" class="btn btn--info">bibtex</a>
-        <a href="https://link.springer.com/article/10.1007/s11042-012-1219-9" style="color:gray" class="btn btn--warning">.pdf</a>
-
-<div id="sadallah2012chm" style="display:none;">
-<small><div class="highlighter-rouge"><pre class="highlight">
-<code>@article{sadallah2012chm,
-  title={CHM: an annotation- and component-based hypervideo model for the Web},
-  author={Sadallah, Madjid and Aubert, Olivier and Pri{\'e}, Yannick},
-  journal={Multimedia Tools and Applications},
-  pages={1--35},
-  year={2012},
-  publisher={Springer Netherlands}
-}
-</code></pre></div></small>
-</div>
 
 
 # 2011
   > Madjid Sadallah, Olivier Aubert and Yannick Prié. "Component-based hypervideo model: high-level operational specification of hypervideos." In Proceedings of the 11th ACM symposium on Document engineering, pages 53-56, 2011<br>
     <a style="color:gray;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2011component');" class="btn btn--info">bibtex</a>
-        <a href="https://dl.acm.org/doi/10.1145/2034691.2034702" style="color:gray" class="btn btn--warning">.pdf</a>
+        <a href="sadallah2011component.pdf" style="color:gray" class="btn btn--warning">.pdf</a>
 
 <div id="sadallah2011component" style="display:none;">
 <small><div class="highlighter-rouge"><pre class="highlight">
@@ -233,7 +235,7 @@ For a complete list of publications, please refer to <a href="https://scholar.go
 
   > Madjid Sadallah, Olivier Aubert and Yannick Prié. "Hypervideo and Annotations on the Web." In 2011 Workshop on Multimedia on the Web, pages 10-15, IEEE, 2011<br>
     <a style="color:gray;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2011hypervideo');" class="btn btn--info">bibtex</a>
-        <a href="https://hal.archives-ouvertes.fr/hal-00636834/document" style="color:gray" class="btn btn--warning">.pdf</a>
+        <a href="sadallah2011hypervideo.pdf" style="color:gray" class="btn btn--warning">.pdf</a>
 
 <div id="sadallah2011hypervideo" style="display:none;">
 <small><div class="highlighter-rouge"><pre class="highlight">
@@ -251,7 +253,7 @@ For a complete list of publications, please refer to <a href="https://scholar.go
 # 2010
 > Azze-Eddine Maredj, Nourreddine Tonkin et Madjid Sadallah. "MediaStudio: Un systeme d'edition et de presentation de documents multimedia interactifs." Revue d'Information Scientifique & Technique 18 (2010): 25-47<br>
     <a style="color:gray;cursor: pointer; cursor: hand;" onclick="toggle_visibility('maredj2010mediastudio');" class="btn btn--info">bibtex</a>
-        <a href="https://arxiv.org/pdf/maredj2010mediastudio.pdf" style="color:gray" class="btn btn--warning">.pdf</a>
+        <a href="maredj2010mediastudio.pdf" style="color:gray" class="btn btn--warning">.pdf</a>
 
 <div id="maredj2010mediastudio" style="display:none;">
 <small><div class="highlighter-rouge"><pre class="highlight">
@@ -269,7 +271,7 @@ For a complete list of publications, please refer to <a href="https://scholar.go
 # 2008
 > A-E Maredj, T Nourreddine, M Sadallah et Z Alimazighi. "A flexible distance for the spatial placement in a multimedia document." Dans ICTTA’08:International Conference on Information & Communication Technologies : From theory to Applications., pages 1-4. IEEE, 2008<br>
     <a style="color:gray;cursor: pointer; cursor: hand;" onclick="toggle_visibility('maredj2008flexible');" class="btn btn--info">bibtex</a>
-        <a href="https://arxiv.org/pdf/maredj2008flexible.pdf" style="color:gray" class="btn btn--warning">.pdf</a>
+        <a href="maredj2008flexible.pdf" style="color:gray" class="btn btn--warning">.pdf</a>
 
 <div id="maredj2008flexible" style="display:none;">
 <small><div class="highlighter-rouge"><pre class="highlight">
@@ -284,43 +286,12 @@ For a complete list of publications, please refer to <a href="https://scholar.go
 </code></pre></div></small>
 </div>
 
-  > Azze-Eddine Maredj, Zaia Alimazighi, Nourredine Tonkin et Madjid Sadallah. "Un modèle logique de documents pour les interactions multimédia." Dans 5th international conference of electronics and Automatics JTEA'08, pages 1635-1639, Hammamet, Tunisia, 2008<br>
-    <a style="color:gray;cursor: pointer; cursor: hand;" onclick="toggle_visibility('maredj2008modele');" class="btn btn--info">bibtex</a>
-        <a href="https://arxiv.org/pdf/maredj2008modele.pdf" style="color:gray" class="btn btn--warning">.pdf</a>
 
-<div id="maredj2008modele" style="display:none;">
-<small><div class="highlighter-rouge"><pre class="highlight">
-<code>@inproceedings{maredj2008modele,
-  title={Un mod{\`e}le logique de documents pour les interactions multim{\'e}dia},
-  author={MAREDJ, Azze-Eddine and ALIMAZIGHI, Zaia and TONKIN, Nourredine and SADALLAH, Madjid},
-  booktitle={5th international conference of electronics and Automatics JTEA'08},
-  pages={1635--1639},
-  year={2008},
-  organization={Hammamet, Tunisia.}
-}
-</code></pre></div></small>
-</div>
-
-  > Nourredine Tonkin, Madjid Sadallah, Azze-Eddine Maredj et Zaia Alimazighi. "Un modèle logique de documents pour les interactions multimédia." Dans Conférence internationale d’électronique et d’Automatique (JTEA'08), JTEA, 2008<br>
-    <a style="color:gray;cursor: pointer; cursor: hand;" onclick="toggle_visibility('tonkin2008modele');" class="btn btn--info">bibtex</a>
-        <a href="https://arxiv.org/pdf/tonkin2008modele.pdf" style="color:gray" class="btn btn--warning">.pdf</a>
-
-<div id="tonkin2008modele" style="display:none;">
-<small><div class="highlighter-rouge"><pre class="highlight">
-<code>@inproceedings{tonkin2008modele,
-  title={Un mod{\`e}le logique de documents pour les interactions multim{\'e}dia},
-  author={Tonkin, Nourredine and Sadallah, Madjid and Maredj, Azze-Eddine and Alimazighi, Zaia},
-  booktitle={Conf{\'e}rence internationale d’{\'e}lectronique et d’Automatique (JTEA'08)},
-  year={2008},
-  organization={JTEA}
-}
-</code></pre></div></small>
-</div>
 
 # 2007
   > Azze-Eddine MAREDJ, Zaia ALIMAZIGHI and Madjid SADALLAH. "Extension of the Wahl-Rothermel temporal model for the multimedia documents." In ICTA’07, April 12-14, Hammamet, Tunisia, pages 257-261, 2007<br>
     <a style="color:gray;cursor: pointer; cursor: hand;" onclick="toggle_visibility('maredj2007extension');" class="btn btn--info">bibtex</a>
-        <a href="https://arxiv.org/pdf/maredj2007extension.pdf" style="color:gray" class="btn btn--warning">.pdf</a>
+        <a href="maredj2007extension.pdf" style="color:gray" class="btn btn--warning">.pdf</a>
 
 <div id="maredj2007extension" style="display:none;">
 <small><div class="highlighter-rouge"><pre class="highlight">
