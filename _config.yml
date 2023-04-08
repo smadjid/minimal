@@ -75,6 +75,32 @@ author:
   avatar           : "/assets/images/smadjid.png"
   bio              : "Research engineer."
   location         : "Brest, FR"
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : "smadjid"
+  google_scholar   : "A8So5p8AAAAJ"
+  keybase          :
+  instagram        :
+  lastfm           :
+  linkedin         : "smadjid"
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
+  steam            :
+  tumblr           :
+  twitter          :  "smadjid"
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
+  researchgate      : "Madjid-Sadallah"
+  orcid             :"0000-0001-9118-0235"
+  
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
