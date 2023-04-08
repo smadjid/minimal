@@ -5,11 +5,8 @@ read_time: false
 comments: false
 share: false
 author_profile: true
-title: <br><br><br><br><br>Doctorate
+title: <br><br><br><br><br>PhD Thesis
 permalink: /phd/
-header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
 ---
 
 ## PhD Thesis (University of Bejaia - Algeria, 2019)
