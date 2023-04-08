@@ -30,7 +30,7 @@ feature_row_magister:
     btn_class: "btn--inverse"
 
 feature_row_engineer:
-  - image_path: /assets/images/engineer.png
+  - image_path: 
     alt: "Engineer"
     title: 'Engineer Thesis (USTHB - Algeria, 2004)'
     excerpt: "Topic: Edge Detection Algorithms: towards an automatic selector of an optimal detection operator 
