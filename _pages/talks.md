@@ -19,6 +19,16 @@ feature_row_csedu:
     btn_label: "Presentation (.pdf)"
     btn_class: "btn--inverse"
 
+feature_row_phd:
+  - image_path: /assets/images/phd_slides.png
+    alt: "PhD Defense"
+    title: 'PhD Defense, June 2023.'
+    excerpt: "Slides of PhD defense : 'Models and Tools for Usage based e-Learning Documents Reengineering'."
+    btn_label: "PhD slides (youtube)"
+    btn_class: "btn--inverse"
+    url: "https://youtu.be/Rym6TmFB9aA"
+
+
 feature_row_cvpr20:
   - image_path: /media/presentations/cvpr2020_alex_kendall.jpg
     alt: "Alex Kendall, End-to-End Deep Learning for Autonomous Driving, CVPR 2020"
@@ -145,3 +155,4 @@ feature_row_perse:
 ---
 
 {% include feature_row id="feature_row_csedu" type="left" %}
+{% include feature_row id="feature_row_phd" type="left" %}
