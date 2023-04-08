@@ -5,19 +5,17 @@ read_time: false
 comments: false
 share: false
 author_profile: true
-title: <br><br><br><br><br>Publications
+title: Publications
 permalink: /publications/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
 ---
 
-## Publications
-
 For a complete list of publications, please refer to <a href="https://scholar.google.com/citations?user=A8So5p8AAAAJ" itemprop="sameAs"><i class="ai ai-fw ai-google-scholar-square" aria-hidden="true"></i>Google Scholar</a>.
 
 ---
-## 2023
+# 2023
   > Madjid Sadallah and Jean-Marie Gilliot. "Generating LADs that make sense." In Proceedings of the 15th International Conference on Computer Supported Education CSEDU 2023, pages 35-46<br>
     <a style="color:gray;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2023generating');" class="btn btn--info">bibtex</a>
         <a href="https://arxiv.org/pdf/sadallah2023generating.pdf" style="color:gray" class="btn btn--warning">.pdf</a>
@@ -67,7 +65,7 @@ For a complete list of publications, please refer to <a href="https://scholar.go
 </code></pre></div></small>
 </div>
 
-## 2022
+# 2022
   > Madjid Sadallah, Jean-Marie Gilliot, Sébastien Iksal, Katia Quelennec, Mathieu Vermeulen, Laurent Neyssensas, Olivier Aubert and Rémi Venant. "Designing LADs That Promote Sensemaking: A Participatory Tool." In Educating for a New Future: Making Sense of Technology-Enhanced Learning Adoption: 17th European Conference on Technology Enhanced Learning, EC-TEL 2022, Toulouse, France, September 12--16, 2022, Proceedings. Springer International Publishing Cham, 2022. pp. 587--593<br>
     <a style="color:gray;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2022designing');" class="btn btn--info">bibtex</a>
         <a href="https://arxiv.org/pdf/sadallah2022designing.pdf" style="color:gray" class="btn btn--warning">.pdf</a>
@@ -87,7 +85,7 @@ For a complete list of publications, please refer to <a href="https://scholar.go
 
 
 
-## 2021
+# 2021
   > MAREDJ, Azze-Eddine and Madjid, Sadallah and Lamia, Hamouche. "Une cinquième dimension pour les documents multimédia: La dimension annotation." Revue de l'Information Scientifique et Technique 24.1 (2021): 12-20<br>
     <a style="color:gray;cursor: pointer; cursor: hand;" onclick="toggle_visibility('maredj2021cinquieme');" class="btn btn--info">bibtex</a>
         <a href="https://asjp.cerist.dz/en/article/140397" style="color:gray" class="btn btn--warning">.pdf</a>
@@ -107,7 +105,7 @@ For a complete list of publications, please refer to <a href="https://scholar.go
 </code></pre></div></small>
 </div>
 
-## 2020
+# 2020
   > Sadallah, Madjid and Encelle, Benoît and Maredj, Azze-Eddine and Prié, Yannick. "Leveraging Learners' Activity Logs for Course Reading Analytics Using Session-Based Indicators." International Journal of Technology Enhanced Learning (IJTEL) 12.1 (2020): 53-78<br>
     <a style="color:gray;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2020leveraging');" class="btn btn--info">bibtex</a>
         <a href="https://www.inderscienceonline.com/doi/abs/10.1504/IJTEL.2020.104948" style="color:gray" class="btn btn--warning">.pdf</a>
@@ -145,7 +143,7 @@ For a complete list of publications, please refer to <a href="https://scholar.go
 </code></pre></div></small>
 </div>
 
-## 2019
+# 2019
   > Madjid Sadallah. "Models and Tools for Usage-based e-Learning Documents Reengineering." PhD thesis, University of Bejaia - Algeria, 2019<br>
     <a style="color:gray;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2019models');" class="btn btn--info">bibtex</a>
         <a href="https://arxiv.org/pdf/sadallah2019models.pdf" style="color:gray" class="btn btn--warning">.pdf</a>
@@ -161,7 +159,7 @@ For a complete list of publications, please refer to <a href="https://scholar.go
 </code></pre></div></small>
 </div>
 
-## 2015
+# 2015
   > Madjid Sadallah, Benoît Encelle, Azze-Eddine Maredj and Yannick Prié. "Towards reading session-based indicators in educational reading analytics." In Design for Teaching and Learning in a Networked World: 10th European Conference on Technology Enhanced Learning, EC-TEL 2015, Toledo, Spain, September 15-18, 2015, Proceedings 10, pages 297--310. Springer International Publishing, 2015<br>
     <a style="color:gray;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2015towards');" class="btn btn--info">bibtex</a>
         <a href="https://arxiv.org/pdf/sadallah2015towards.pdf" style="color:gray" class="btn btn--warning">.pdf</a>
@@ -180,7 +178,7 @@ For a complete list of publications, please refer to <a href="https://scholar.go
 </div>
 
 
-## 2013
+# 2013
   > Madjid Sadallah, Benoît Encelle, Azze-Eddine Mared and Yannick Prié. "A framework for usage-based document reengineering." In Proceedings of the 2013 ACM symposium on Document engineering, pages 99-102, 2013<br>
     <a style="color:gray;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2013framework');" class="btn btn--info">bibtex</a>
         <a href="https://dl.acm.org/doi/10.1145/2494266.2494288" style="color:gray" class="btn btn--warning">.pdf</a>
@@ -197,7 +195,7 @@ For a complete list of publications, please refer to <a href="https://scholar.go
 </code></pre></div></small>
 </div>
 
-## 2012
+# 2012
 > Madjid Sadallah, Olivier Aubert and Yannick Prié. "CHM: an annotation- and component-based hypervideo model for the Web." Multimedia Tools and Applications, pages 1-35, 2012<br>
     <a style="color:gray;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2012chm');" class="btn btn--info">bibtex</a>
         <a href="https://link.springer.com/article/10.1007/s11042-012-1219-9" style="color:gray" class="btn btn--warning">.pdf</a>
@@ -216,7 +214,7 @@ For a complete list of publications, please refer to <a href="https://scholar.go
 </div>
 
 
-## 2011
+# 2011
   > Madjid Sadallah, Olivier Aubert and Yannick Prié. "Component-based hypervideo model: high-level operational specification of hypervideos." In Proceedings of the 11th ACM symposium on Document engineering, pages 53-56, 2011<br>
     <a style="color:gray;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2011component');" class="btn btn--info">bibtex</a>
         <a href="https://dl.acm.org/doi/10.1145/2034691.2034702" style="color:gray" class="btn btn--warning">.pdf</a>
@@ -250,7 +248,7 @@ For a complete list of publications, please refer to <a href="https://scholar.go
 </code></pre></div></small>
 </div>
 
-## 2010
+# 2010
 > Azze-Eddine Maredj, Nourreddine Tonkin et Madjid Sadallah. "MediaStudio: Un systeme d'edition et de presentation de documents multimedia interactifs." Revue d'Information Scientifique & Technique 18 (2010): 25-47<br>
     <a style="color:gray;cursor: pointer; cursor: hand;" onclick="toggle_visibility('maredj2010mediastudio');" class="btn btn--info">bibtex</a>
         <a href="https://arxiv.org/pdf/maredj2010mediastudio.pdf" style="color:gray" class="btn btn--warning">.pdf</a>
@@ -268,7 +266,7 @@ For a complete list of publications, please refer to <a href="https://scholar.go
 </code></pre></div></small>
 </div>
 
-## 2008
+# 2008
 > A-E Maredj, T Nourreddine, M Sadallah et Z Alimazighi. "A flexible distance for the spatial placement in a multimedia document." Dans ICTTA’08:International Conference on Information & Communication Technologies : From theory to Applications., pages 1-4. IEEE, 2008<br>
     <a style="color:gray;cursor: pointer; cursor: hand;" onclick="toggle_visibility('maredj2008flexible');" class="btn btn--info">bibtex</a>
         <a href="https://arxiv.org/pdf/maredj2008flexible.pdf" style="color:gray" class="btn btn--warning">.pdf</a>
@@ -319,7 +317,7 @@ For a complete list of publications, please refer to <a href="https://scholar.go
 </code></pre></div></small>
 </div>
 
-## 2007
+# 2007
   > Azze-Eddine MAREDJ, Zaia ALIMAZIGHI and Madjid SADALLAH. "Extension of the Wahl-Rothermel temporal model for the multimedia documents." In ICTA’07, April 12-14, Hammamet, Tunisia, pages 257-261, 2007<br>
     <a style="color:gray;cursor: pointer; cursor: hand;" onclick="toggle_visibility('maredj2007extension');" class="btn btn--info">bibtex</a>
         <a href="https://arxiv.org/pdf/maredj2007extension.pdf" style="color:gray" class="btn btn--warning">.pdf</a>
