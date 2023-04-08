@@ -37,5 +37,5 @@ feature_row_engineer:
     Supervisor: Dr. Samy Ait-Aoudia"
 ---
 {% include feature_row id="feature_row_phd" type="left" %}
-{% include feature_row id="feature_row_magiser" type="left" %}
+{% include feature_row id="feature_row_magister" type="left" %}
 {% include feature_row id="feature_row_engineer" type="left" %}
