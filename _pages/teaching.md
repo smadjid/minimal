@@ -40,6 +40,7 @@ By the end of this comprehensive course, students will possess the knowledge and
 
 This comprehensive course serves as a fundamental prerequisite for the PGS-Security course, equipping learners with the necessary skills and knowledge to proficiently administer and secure a GNU/Linux environment. The curriculum is structured into two parts, with the first part serving as a refresher course that covers the theoretical foundations of operating systems and delves into the philosophy and workings of UNIX systems. Topics such as file systems, processes, and services are explored in depth, providing a strong foundational understanding of system administration in a GNU/Linux environment. The second part of the course builds on this foundation, covering essential cybersecurity concepts such as best practices, sudo usage, physical equipment access, data encryption, password shadowing, user account and group management, iptable filtering rules, file and directory permissions, and ACLs. By the end of the course, learners will have a well-rounded understanding of system administration and security management in a GNU/Linux environment, making them well-prepared for future studies in computer security.
 
+[Click me](http://www.google.com){: .btn} 
 ### GNU Linux Operating Systems - PGS HPC & Big Data
 * *Years* : 2017-2018, 2018-2019, 2019-2020 (3 classes) 
 * *Average enrollment* : 12 students
