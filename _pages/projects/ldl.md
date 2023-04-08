@@ -6,7 +6,7 @@ comments: false
 share: false
 author_profile: true
 title: LearningDataLab
-permalink: /ldl/
+permalink: /projects/ldl/
 ---
 
 ## LearningDataLab, 2023

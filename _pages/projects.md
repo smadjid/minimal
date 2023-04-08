@@ -4,7 +4,7 @@ read_time: false
 comments: true
 share: true
 author_profile: false
-title: S  elected Projects
+title: Selected Projects
 permalink: /projects/
 header:
   overlay_color: "#000"
