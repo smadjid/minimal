@@ -5,7 +5,7 @@ read_time: false
 comments: false
 share: false
 author_profile: true
-title: <br><br><br>Activities
+title: Activities
 permalink: /activities/
 header:
   overlay_color: "#000"

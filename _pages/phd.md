@@ -5,7 +5,7 @@ read_time: false
 comments: false
 share: false
 author_profile: true
-title: <br><br><br><br><br>PhD Thesis
+title: PhD Thesis
 permalink: /phd/
 ---
 

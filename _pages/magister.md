@@ -5,7 +5,7 @@ read_time: false
 comments: false
 share: false
 author_profile: true
-title: <br><br><br><br><br>Magister Thesis
+title: Magister Thesis
 permalink: /magister/
 ---
 

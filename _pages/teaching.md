@@ -5,14 +5,14 @@ read_time: false
 comments: false
 share: false
 author_profile: true
-title: <br>Teaching
+title: Teaching
 permalink: /teaching/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
 ---
 
-## omputer Application & Information  Systems. *Ecole Nationale d'Administration (Algiers)*
+## Computer Application & Information  Systems. *Ecole Nationale d'Administration (Algiers)*
 * *Years* : 2014-2015, 2015-2016, 2016-2017 (3 classes)  
 * *Average enrollment* : 38 students
 * *Level* : 2nd year 
