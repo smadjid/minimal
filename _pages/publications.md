@@ -70,7 +70,7 @@ For a complete list of publications, please refer to <a href="https://scholar.go
 # 2022
   > Madjid Sadallah, Jean-Marie Gilliot, Sébastien Iksal, Katia Quelennec, Mathieu Vermeulen, Laurent Neyssensas, Olivier Aubert and Rémi Venant. "Designing LADs That Promote Sensemaking: A Participatory Tool." In Educating for a New Future: Making Sense of Technology-Enhanced Learning Adoption: 17th European Conference on Technology Enhanced Learning, EC-TEL 2022, Toulouse, France, September 12--16, 2022, Proceedings. Springer International Publishing Cham, 2022. pp. 587--593<br>
     <a style="color:gray;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2022designing');" class="btn btn--info">bibtex</a>
-        <a href="/media/papers/sadallah2022designing.pdf" style="color:gray" class="btn btn--warning">.pdf</a>
+        <a href="/media/papers/sadallah2022designing.pdf" style="color:gray" class="btn btn--warning">Accepted version</a>
 
 <div id="sadallah2022designing" style="display:none;">
 <small><div class="highlighter-rouge"><pre class="highlight">
