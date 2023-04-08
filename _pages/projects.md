@@ -9,21 +9,16 @@ permalink: /projects/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/trinity.jpg
-  caption: "Photo: [Olly McMillan](https://www.youtube.com/watch?v=kQkZeXHfgwA&t=1s)"
 
 feature_row_ldl:
   - image_path: /assets/images/ldl.png
     alt: "LearningDataLab"
     title: 'LearningDataLab, 2023.'
-    excerpt: "The Learning Data Lab (LDL) is an ongoing project aimed at leveraging learning analytics to enhance the quality of educational experiences. The LDL team works to build a comprehensive infrastructure for collecting, processing, and analyzing data from multiple sources, such as MOOC platforms and institutional learning management systems. Through this infrastructure, LDL aims to provide actionable insights to educators and students to help improve learning outcomes. The LDL project includes a research component focused on Predictive Learning Analytics (PLA), which leverages machine learning algorithms to predict student success and detect potential dropout risks. With a focus on PLA, the LDL team aims to develop and implement effective interventions to support struggling students and provide them with targeted support. Ultimately, the LDL project aims to provide educators and administrators with the tools they need to make informed decisions and support student success."
+    excerpt: "The Learning Data Lab (LDL) is an ongoing project aimed at leveraging learning analytics to enhance the quality of educational experiences. The LDL team works to build a comprehensive infrastructure for collecting, processing, and analyzing data from multiple sources, such as MOOC platforms and institutional learning management systems. "
     url: "/ldl"
     btn_label: "Details"
     btn_class: "btn--inverse"
-    start_date: "2020"
-    end_date: "ongoing"
-    partners: "Université de Montréal, Université Laval, Concordia University"
-
+    
 
 
 feature_row_ladstudio:
