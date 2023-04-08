@@ -35,7 +35,7 @@ For a complete list of publications, please refer to <a href="https://scholar.go
 </div>
 
   > Azze-eddine Maredj and Madjid Sadallah. "A set of rhetorical relationships for educational multimedia document." Revue de l'Information Scientifique et Technique<br>
-    <a style="color:gray;cursor: pointer; cursor: hand;" onclick="toggle_visibility('maredj2023set');">bibtex</a>
+    <a style="color:gray;cursor: pointer; cursor: hand;" onclick="toggle_visibility('maredj2023set');" class="btn btn--info">bibtex</a>
         <a href="https://arxiv.org/pdf/maredj2023set.pdf" style="color:gray" class="btn btn--warning">.pdf</a>
 
 <div id="maredj2023set" style="display:none;">

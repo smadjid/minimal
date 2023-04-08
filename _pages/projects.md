@@ -26,7 +26,7 @@ feature_row_ladstudio:
     alt: "LADStudio App"
     title: 'LADStudio, 2021.'
     btn_label: "Details"
-    url: "/ladstudio.md"
+    url: "/projects/ladstudio"
     excerpt: "LADStudio is an innovative web-based platform designed to facilitate the creation and management of decision-oriented learning dashboards. "
     btn_class: "btn--inverse"
 
@@ -72,7 +72,6 @@ feature_row_mediastudio:
     alt: "MediaStudio"
     title: 'MediaStudio'
     excerpt: "MediaStudio  is a research project focused on the development of advanced multimedia systems and tools for the production and delivery of rich, interactive, and adaptable content. The project aims to propose innovative models and approaches that can enhance the user experience and engagement with multimedia content. By leveraging cutting-edge technologies and design methodologies, MediaStudio 1&2 aims to provide solutions that can be applied to a broad range of domains such as education, entertainment, and advertising. Ultimately, the goal of the project is to create novel multimedia experiences that can facilitate knowledge transfer, enhance learning outcomes, and improve audience engagement."
-    url: "mediastudio.md"
     btn_label: "Details"
     btn_class: "btn--inverse"
 
