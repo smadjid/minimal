@@ -84,6 +84,12 @@
           ORCiD
         </a></li>
       {% endif %}
+      {% if author.researchgate %}
+        <li><a href="https://www.researchgate.net/profile/+{{ author.researchgate }}" itemprop="sameAs">
+          <i class="ai ai-researchgate" aria-hidden="true"></i>
+          ORCiD
+        </a></li>
+      {% endif %}
       {% if author.linkedin %}
         <li><a href="https://www.linkedin.com/in/{{ author.linkedin }}" itemprop="sameAs">
           <i class="fa fa-fw fa-linkedin-square" aria-hidden="true"></i> 
