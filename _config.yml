@@ -99,26 +99,8 @@ author:
   xing             :
   youtube          :
   researchgate      : "Madjid-Sadallah"
-  
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/smadjid"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/smadjid"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/smadjid"
-    - label: "Scholar"
-      icon: "ai ai-google-scholar"
-      url: "https://scholar.google.com/citations?user=A8So5p8AAAAJ&hl=en"
-    - label: "ResearchGate"
-      icon: "ai ai-researchgate"
-      url: "https://www.researchgate.net/profile/Madjid-Sadallah"
-    - label: "ORCiD"
-      icon: "ai ai-orcid"
-      url: "https://orcid.org/0000-0001-9118-0235"
+  orcid      : "Madjid-Sadallah"
+
 
 
 
