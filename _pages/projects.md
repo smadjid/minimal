@@ -26,9 +26,9 @@ feature_row_ladstudio:
   - image_path: /assets/images/ladstudio.png
     alt: "LADStudio App"
     title: 'LADStudio, 2021.'
-    excerpt: "LADStudio app"
+    btn_label: "Details"
     url: "/ladstudio.md"
-    btn_label: "LADStudio is an innovative web-based platform designed to facilitate the creation and management of decision-oriented learning dashboards. By providing users with powerful visualization tools, LADStudio enables the user to identify patterns, extract insights, and make data-driven decisions. The platform empowers users to explicitly express the cognitive process related to decision-making by supporting situational awareness and sensemaking through interactive and dynamic visualizations. With LADStudio, you can easily transform raw data into actionable insights and decision-support tools, making it an invaluable asset for any individual or organization engaged in data-driven decision making."
+    excerpt: "LADStudio is an innovative web-based platform designed to facilitate the creation and management of decision-oriented learning dashboards. By providing users with powerful visualization tools, LADStudio enables the user to identify patterns, extract insights, and make data-driven decisions. The platform empowers users to explicitly express the cognitive process related to decision-making by supporting situational awareness and sensemaking through interactive and dynamic visualizations. With LADStudio, you can easily transform raw data into actionable insights and decision-support tools, making it an invaluable asset for any individual or organization engaged in data-driven decision making."
     btn_class: "btn--inverse"
 
 feature_row_sava:
@@ -45,18 +45,18 @@ feature_row_padlad:
   - image_path: /assets/images/padlad.png
     alt: "PADLAD Toolkit"
     title: 'PADLAD, 2021.'
-    excerpt: "PADLAD app"
+    btn_label: "Details"
     url: "padlad.md"
-    btn_label: "PaDLAD is a collaborative toolkit designed to empower educational practitioners in the co-creation of learning data dashboards. The goal is to enable effective tracking and identification of indicators, while providing a solution to detect and troubleshoot problematic areas. The toolkit offers a streamlined approach to better aggregate and contextualize relevant information, helping users make informed decisions and drive better outcomes. PaDLAD is a powerful tool that enables educators to more easily imagine and prototype customized dashboards for their specific needs, improving the effectiveness of their educational practices."
+    excerpt: "PaDLAD is a collaborative toolkit designed to empower educational practitioners in the co-creation of learning data dashboards. The goal is to enable effective tracking and identification of indicators, while providing a solution to detect and troubleshoot problematic areas. The toolkit offers a streamlined approach to better aggregate and contextualize relevant information, helping users make informed decisions and drive better outcomes. PaDLAD is a powerful tool that enables educators to more easily imagine and prototype customized dashboards for their specific needs, improving the effectiveness of their educational practices."
     btn_class: "btn--inverse"
 
 feature_row_coreada:
   - image_path: /assets/images/coreada.png
     alt: "COREADA Tool"
     title: 'COREADA'
-    excerpt: "COREADA"
+    btn_label: "COREADA"
     url: "coreada.md"
-    btn_label: "CoREADA is a research project in the field of Learning Analytics that focuses on analyzing learners' content consumption traces. The project's goal is to provide authors and educators with insights on how to improve their courses. Our research mainly focuses on analyzing the traces of OpenClassrooms MOOC courses, and we have achieved significant results in detecting reading sessions.In addition, we have designed and built a dashboard that provides teachers and course authors with easy-to-use analytics tools that can help them better understand learners' reading behavior. By using CoREADA, authors and educators can gain valuable insights that can help them create more effective and engaging learning experiences."
+    excerpt: "CoREADA is a research project in the field of Learning Analytics that focuses on analyzing learners' content consumption traces. The project's goal is to provide authors and educators with insights on how to improve their courses. Our research mainly focuses on analyzing the traces of OpenClassrooms MOOC courses, and we have achieved significant results in detecting reading sessions.In addition, we have designed and built a dashboard that provides teachers and course authors with easy-to-use analytics tools that can help them better understand learners' reading behavior. By using CoREADA, authors and educators can gain valuable insights that can help them create more effective and engaging learning experiences."
     btn_class: "btn--inverse"
 
 feature_row_chm:
