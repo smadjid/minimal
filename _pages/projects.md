@@ -21,12 +21,59 @@ feature_row_ldl:
     btn_label: "Details"
     btn_class: "btn--inverse"
 
+
+feature_row_ladstudio:
+  - image_path: /assets/images/ladstudio.png
+    alt: "LADStudio App"
+    title: 'LADStudio, 2021.'
+    excerpt: "LADStudio app"
+    url: "/ladstudio.md"
+    btn_label: "Details"
+    btn_class: "btn--inverse"
+
 feature_row_sava:
   - image_path: /assets/images/savastudio.png
     alt: "SAVASTUDIO App"
     title: 'SAVAStudio, 2021.'
     excerpt: "SAVAStudio app"
     url: "/_pages/savastudio.md"
+    btn_label: "Details"
+    btn_class: "btn--inverse"
+
+
+feature_row_padlad:
+  - image_path: /assets/images/padlad.png
+    alt: "PADLAD Toolkit"
+    title: 'PADLAD, 2021.'
+    excerpt: "PADLAD app"
+    url: "padlad.md"
+    btn_label: "Details"
+    btn_class: "btn--inverse"
+
+feature_row_coreada:
+  - image_path: /assets/images/coreada.png
+    alt: "COREADA Tool"
+    title: 'COREADA'
+    excerpt: "COREADA"
+    url: "coreada.md"
+    btn_label: "Details"
+    btn_class: "btn--inverse"
+
+feature_row_chm:
+  - image_path: /assets/images/chm.png
+    alt: "WebCHM"
+    title: 'CHM'
+    excerpt: "CHM"
+    url: "chm.md"
+    btn_label: "Details"
+    btn_class: "btn--inverse"
+
+feature_row_chm:
+  - image_path: /assets/images/mediastudio.png
+    alt: "MediaStudio"
+    title: 'MediaStudio'
+    excerpt: "MediaStudio"
+    url: "mediastudio.md"
     btn_label: "Details"
     btn_class: "btn--inverse"
 
@@ -169,3 +216,8 @@ feature_row_sava:
 
 {% include feature_row id="feature_row_ldl" type="left" %}
 {% include feature_row id="feature_row_sava" type="left" %}
+{% include feature_row id="feature_row_ladstudio" type="left" %}
+{% include feature_row id="feature_row_padlad" type="left" %}
+{% include feature_row id="feature_row_coreada" type="left" %}
+{% include feature_row id="feature_row_chm" type="left" %}
+{% include feature_row id="feature_row_mediastudio" type="left" %}
