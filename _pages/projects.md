@@ -4,13 +4,22 @@ read_time: false
 comments: true
 share: true
 author_profile: false
-title: <br><br><br><br><br>Selected Talks
-permalink: /talks/
+title: <br><br><br><br><br>Selected Projects
+permalink: /projects/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/trinity.jpg
   caption: "Photo: [Olly McMillan](https://www.youtube.com/watch?v=kQkZeXHfgwA&t=1s)"
+
+feature_row_sava:
+  - image_path: /assets/images/savastudio.png
+    alt: "SAVASTUDIO App"
+    title: 'SAVAStudio, 2021.'
+    excerpt: "SAVAStudio app"
+    url: "/_pages/savastudio.md"
+    btn_label: "Details"
+    btn_class: "btn--inverse"
 
 feature_row_cvpr21:
   - image_path: /assets/images/cvpr_2021_wad_alex_kendall.jpg
@@ -149,6 +158,7 @@ feature_row_perse:
     
 ---
 
+{% include feature_row id="feature_row_sava" type="left" %}
 {% include feature_row id="feature_row_cvpr21" type="left" %}
 {% include feature_row id="feature_row_cvpr20" type="left" %}
 {% include feature_row id="feature_row_icvss19" type="left" %}
