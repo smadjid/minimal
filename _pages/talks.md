@@ -37,6 +37,15 @@ feature_row_ectel2015:
     btn_label: "Presentation (.pdf)"
     btn_class: "btn--inverse"
 
+feature_row_doceng2013:
+  - image_path: /assets/images/doceng2013.png
+    alt: "EC-TEL 2015"
+    title: 'EC-TEL 2015, JSeptember 2015.'
+    excerpt: "Slides of the presentation of the paper 'A framework for Usage-based Document Renngineering'."
+    url: "/media/presentations/doceng2013.pdf"
+    btn_label: "Presentation (.pdf)"
+    btn_class: "btn--inverse"
+
 feature_row_cvpr20:
   - image_path: /media/presentations/cvpr2020_alex_kendall.jpg
     alt: "Alex Kendall, End-to-End Deep Learning for Autonomous Driving, CVPR 2020"
@@ -164,3 +173,5 @@ feature_row_perse:
 
 {% include feature_row id="feature_row_csedu" type="left" %}
 {% include feature_row id="feature_row_phd" type="left" %}
+{% include feature_row id="feature_row_ectel2015" type="left" %}
+{% include feature_row id="feature_row_doceng2013" type="left" %}
