@@ -5,15 +5,14 @@ read_time: false
 comments: false
 share: false
 author_profile: true
-title: <br><br><br><br><br>Teaching
+title: <br>Teaching
 permalink: /teaching/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
 ---
 
-## Ecole Nationale d'Administration (Alger)
-### Computer Application & Information  Systems
+## omputer Application & Information  Systems. *Ecole Nationale d'Administration (Algiers)*
 * *Years* : 2014-2015, 2015-2016, 2016-2017 (3 classes)  
 * *Average enrollment* : 38 students
 * *Level* : 2nd year 
@@ -31,8 +30,9 @@ By the end of this comprehensive course, students will possess the knowledge and
 
 [Course material](http://www.google.com){: .btn .btn--primary .btn--large}
 
-## CERIST (Alger)
-### GNU Linux Operating Systems - PGS IT Security
+<hr/>
+
+## GNU Linux Operating Systems - PGS IT Security. *CERIST (Algiers)*
 * *Years* : 2015-2016, 2016-2017, 2017-2018, 2018-2019, 2019-2020 (5 classes) 
 * *Average enrollment* : 17 students
 * *Level* : 1st year 
@@ -44,7 +44,9 @@ This comprehensive course serves as a fundamental prerequisite for the PGS-Secur
 
 [Course material](http://www.google.com){: .btn .btn--primary .btn--large}
 
-### GNU Linux Operating Systems - PGS HPC & Big Data
+<hr/>
+
+## GNU Linux Operating Systems - PGS HPC & Big Data. *CERIST (Algiers)*
 * *Years* : 2017-2018, 2018-2019, 2019-2020 (3 classes) 
 * *Average enrollment* : 12 students
 * *Level* : 1st year 
@@ -59,7 +61,9 @@ The second part delves into the data analysis and HPC-oriented aspects, includin
 
 [Course material](http://www.google.com){: .btn .btn--primary .btn--large}
 
-### Big Data Languages - R Language & Tools
+<hr/>
+
+## Big Data Languages - R Language & Tools. *CERIST (Algiers)*
 * *Years* : 2017-2018, 2018-2019, 2019-2020 (3 classes) 
 * *Average enrollment* : 12 students
 * *Level* : 1st year 
