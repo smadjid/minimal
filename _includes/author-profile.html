@@ -78,10 +78,10 @@
           Google Scholar
         </a></li>
       {% endif %}
-      {% if author.google_plus %}
-        <li><a href="https://plus.google.com/+{{ author.google_plus }}" itemprop="sameAs">
-          <i class="fa fa-fw fa-google-plus-square" aria-hidden="true"></i>
-          Google+
+      {% if author.orcid %}
+        <li><a href="https://orcid.org/+{{ author.orcid }}" itemprop="sameAs">
+          <i class="ai ai-orcid" aria-hidden="true"></i>
+          ORCiD
         </a></li>
       {% endif %}
       {% if author.linkedin %}
