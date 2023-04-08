@@ -28,6 +28,14 @@ feature_row_phd:
     btn_class: "btn--inverse"
     url: "https://youtu.be/Rym6TmFB9aA"
 
+feature_row_ectel2015:
+  - image_path: /assets/images/ectel2015.png
+    alt: "EC-TEL 2015"
+    title: 'EC-TEL 2015, JSeptember 2015.'
+    excerpt: "Slides of the presentation of the paper 'Towards Reading Session-based Indicators in Educational Reading Analytics'."
+    url: "/media/presentations/ectel2015_slides.pdf"
+    btn_label: "Presentation (.pdf)"
+    btn_class: "btn--inverse"
 
 feature_row_cvpr20:
   - image_path: /media/presentations/cvpr2020_alex_kendall.jpg
