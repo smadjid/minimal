@@ -4,7 +4,7 @@ read_time: false
 comments: true
 share: true
 author_profile: false
-title: <br><br><br><br><br>Theses
+title: <br><br><br>Theses
 permalink: /thesis/
 header:
   overlay_color: "#000"
