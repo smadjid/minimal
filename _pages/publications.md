@@ -20,7 +20,7 @@ For a complete list of publications, please refer to <a href="https://scholar.go
 ## 2023
   > <p>
     Madjid Sadallah and Jean-Marie Gilliot. "Generating LADs that make sense." In Proceedings of the 15th International Conference on Computer Supported Education CSEDU 2023, pages 35-46<br>
-    (<a style="color:gray;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2023generating');">bibtex</a>)
+    (<a style="color:gray;cursor: pointer; cursor: hand;" onclick="toggle_visibility('sadallah2023generating');" class="btn btn--info">bibtex</a>)
         (<a href="https://arxiv.org/pdf/sadallah2023generating.pdf" style="color:gray">.pdf</a>)
 </p>
 <div id="sadallah2023generating" style="display:none;">
