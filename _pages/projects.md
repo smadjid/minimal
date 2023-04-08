@@ -13,7 +13,7 @@ header:
 feature_row_ldl:
   - image_path: /assets/images/ldl.png
     alt: "LearningDataLab"
-    title: 'LearningDataLab, 2023.'
+    title: 'LearningDataLab, 2022 -- 2023.'
     excerpt: "The Learning Data Lab (LDL) is an ongoing project aimed at leveraging learning analytics to enhance the quality of educational experiences. The LDL team works to build a comprehensive infrastructure for collecting, processing, and analyzing data from multiple sources, such as MOOC platforms and institutional learning management systems. "
     url: "/projects/ldl"
     btn_label: "Details"
@@ -24,7 +24,7 @@ feature_row_ldl:
 feature_row_ladstudio:
   - image_path: /assets/images/ladstudio.png
     alt: "LADStudio App"
-    title: 'LADStudio, 2021.'
+    title: 'LADStudio, 2021 -- 2022.'
     btn_label: "Details"
     url: "/projects/ladstudio"
     excerpt: "LADStudio is an innovative web-based platform designed to facilitate the creation and management of decision-oriented learning dashboards. "
@@ -33,7 +33,7 @@ feature_row_ladstudio:
 feature_row_sava:
   - image_path: /assets/images/savastudio.png
     alt: "SAVASTUDIO App"
-    title: 'SAVAStudio, 2021.'
+    title: 'SAVAStudio, 2022 -- 2023.'
     excerpt: "SAVAStudio is an innovative tool designed to help instructors better manage their classes and facilitate student engagement in real-time. "
     url: "/projects/savastudio"
     btn_label: "Details"
@@ -43,7 +43,7 @@ feature_row_sava:
 feature_row_padlad:
   - image_path: /assets/images/padlad.png
     alt: "PADLAD Toolkit"
-    title: 'PADLAD, 2021.'
+    title: 'PADLAD, 2020 -- 2022.'
     btn_label: "Details"
     url: "/projects/padlad"
     excerpt: "PaDLAD is a collaborative toolkit designed to empower educational practitioners in the co-creation of learning data dashboards. "
@@ -52,7 +52,7 @@ feature_row_padlad:
 feature_row_coreada:
   - image_path: /assets/images/coreada.png
     alt: "COREADA Tool"
-    title: 'COREADA'
+    title: 'COREADA, 2014 -- 2019'
     btn_label: "Details"
     url: "projects/coreada"
     excerpt: "CoREADA is a research project in the field of Learning Analytics that focuses on analyzing learners' content consumption traces."
@@ -61,7 +61,7 @@ feature_row_coreada:
 feature_row_chm:
   - image_path: /assets/images/chm.png
     alt: "WebCHM"
-    title: 'CHM'
+    title: 'CHM, 2010 -- 2012'
     excerpt: "The CHM (Component-based Hypervideo Model) project aims to revolutionize the way we interact with multimedia documents through hypervideo, a video-centric hypermedia that allows for immersive audiovisual experiences. "
     url: "projects/chm"
     btn_label: "Details"
@@ -70,7 +70,7 @@ feature_row_chm:
 feature_row_mediastudio:
   - image_path: 
     alt: "MediaStudio"
-    title: 'MediaStudio'
+    title: 'MediaStudio, 2007 -- 2010'
     excerpt: "MediaStudio  is a research project focused on the development of advanced multimedia systems and tools for the production and delivery of rich, interactive, and adaptable content. The project aims to propose innovative models and approaches that can enhance the user experience and engagement with multimedia content. By leveraging cutting-edge technologies and design methodologies, MediaStudio 1&2 aims to provide solutions that can be applied to a broad range of domains such as education, entertainment, and advertising. Ultimately, the goal of the project is to create novel multimedia experiences that can facilitate knowledge transfer, enhance learning outcomes, and improve audience engagement."
     btn_label: "Details"
     btn_class: "btn--inverse"
