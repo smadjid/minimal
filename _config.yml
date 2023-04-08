@@ -1,11 +1,4 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve`. If you change this file, please restart the server process.
-
-# Site Settings
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 locale                   : "en"
 title                    : "Home"
 title_separator          : "-"
@@ -18,9 +11,9 @@ teaser                   : # path of fallback teaser image, e.g. "/assets/images
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider               : #"disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
-    shortname            : "blog-zwizf3t6kl" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : "site-madjid" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -82,26 +75,25 @@ author:
   avatar           : "/assets/images/smadjid.png"
   bio              : "Research engineer."
   location         : "Brest, FR"
-  email            : "madjid.sadallah@gmail.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:madjid.sadallah@gmail.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://github.com/smadjid"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/smadjid"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/smadjid"
+    - label: "Scholar"
+      icon: "ai ai-google-scholar"
+      url: "https://scholar.google.com/citations?user=A8So5p8AAAAJ&hl=en"
+    - label: "ResearchGate"
+      icon: "ai ai-researchgate"
+      url: "https://www.researchgate.net/profile/Madjid-Sadallah"
+    - label: "ORCiD"
+      icon: "ai ai-orcid"
+      url: "https://orcid.org/0000-0001-9118-0235"
 
 
 
