@@ -13,7 +13,7 @@ header:
 
 ## Projects
 
-feature_row_cvpr21:
+feature_row_sava:
   - image_path: /assets/images/savastudio.png
     alt: "SAVASTUDIO App"
     title: 'SAVAStudio, 2021.'
@@ -24,3 +24,7 @@ feature_row_cvpr21:
     btn_class2: "btn--inverse"
     btn_label2: "Workshop (website)"
     url2: "http://cvpr2021.wad.vision/"
+
+---
+
+{% include feature_row id="feature_row_sava" type="left" %}
