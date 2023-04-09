@@ -68,6 +68,16 @@ feature_row_doceng2013:
     btn_label: "Presentation (.pdf)"
     btn_class: "btn--inverse"
 
+feature_row_doceng2011:
+  - image_path: /assets/images/doceng2011.png
+    alt: "ACM DocEng 2011"
+    title: 'ACM DocEng 2011, September 2011.'
+    excerpt: "Slides of the presentation of the paper Component-based Hypervideo Model: High
+Level Specification of Hypervideos'."
+    url: "/media/presentations/doceng2011.pdf"
+    btn_label: "Presentation (.pdf)"
+    btn_class: "btn--inverse"
+
 feature_row_cvpr20:
   - image_path: /media/presentations/cvpr2020_alex_kendall.jpg
     alt: "Alex Kendall, End-to-End Deep Learning for Autonomous Driving, CVPR 2020"
@@ -199,3 +209,4 @@ feature_row_perse:
 {% include feature_row id="feature_row_phd" type="left" %}
 {% include feature_row id="feature_row_ectel2015" type="left" %}
 {% include feature_row id="feature_row_doceng2013" type="left" %}
+{% include feature_row id="feature_row_doceng2011" type="left" %}
