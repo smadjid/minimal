@@ -18,8 +18,7 @@ feature_row_csedu:
     url: "/media/presentations/csedu2023.pdf"
     btn_label: "Presentation (.pdf)"
     btn_class: "btn--inverse"
-
-
+    
 feature_row_rjceiah2022ws:
   - image_path: /assets/images/rjceiah2022ws.png
     alt: "Workshop "Learning analytics dashboard" @ RJC EIAH 2022"
