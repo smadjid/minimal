@@ -22,7 +22,7 @@ feature_row_csedu:
 feature_row_phd:
   - image_path: /assets/images/phd_slides.png
     alt: "PhD Defense"
-    title: 'PhD Defense, June 2023.'
+    title: 'PhD Defense, April 2019.'
     excerpt: "Slides of PhD defense : 'Models and Tools for Usage based e-Learning Documents Reengineering'."
     btn_label: "PhD slides (youtube)"
     btn_class: "btn--inverse"
@@ -31,7 +31,7 @@ feature_row_phd:
 feature_row_ectel2015:
   - image_path: /assets/images/ectel2015.png
     alt: "EC-TEL 2015"
-    title: 'EC-TEL 2015, JSeptember 2015.'
+    title: 'EC-TEL 2015, September 2015.'
     excerpt: "Slides of the presentation of the paper 'Towards Reading Session-based Indicators in Educational Reading Analytics'."
     url: "/media/presentations/ectel2015_slides.pdf"
     btn_label: "Presentation (.pdf)"
@@ -39,8 +39,8 @@ feature_row_ectel2015:
 
 feature_row_doceng2013:
   - image_path: /assets/images/doceng2013.png
-    alt: "EC-TEL 2015"
-    title: 'EC-TEL 2015, JSeptember 2015.'
+    alt: "ACM DocEng 2013"
+    title: 'ACM DocEng 2013, September 2013.'
     excerpt: "Slides of the presentation of the paper 'A framework for Usage-based Document Renngineering'."
     url: "/media/presentations/doceng2013.pdf"
     btn_label: "Presentation (.pdf)"
