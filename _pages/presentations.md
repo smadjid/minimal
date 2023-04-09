@@ -19,7 +19,7 @@ feature_row_csedu:
     btn_label: "Presentation (.pdf)"
     btn_class: "btn--inverse"
     
-feature_row_rjceiah2022ws:
+feature_row_csedu2:
   - image_path: /assets/images/rjceiah2022ws.png
     alt: "Workshop "Learning analytics dashboard" @ RJC EIAH 2022"
     title: 'RJC EIAH 2022 Worskhops, May 2022.'
