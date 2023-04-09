@@ -193,8 +193,6 @@ feature_row_perse:
 ---
 
 {% include feature_row id="feature_row_csedu" type="left" %}
-{% include feature_row id="feature_row_rjceiah2022ws" type="left" %}
-{% include feature_row id="feature_row_eiah2021ws" type="left" %}
 {% include feature_row id="feature_row_phd" type="left" %}
 {% include feature_row id="feature_row_ectel2015" type="left" %}
 {% include feature_row id="feature_row_doceng2013" type="left" %}
