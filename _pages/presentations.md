@@ -18,24 +18,6 @@ feature_row_csedu:
     url: "/media/presentations/csedu2023.pdf"
     btn_label: "Presentation (.pdf)"
     btn_class: "btn--inverse"
-    
-feature_row_csedu2:
-  - image_path: /assets/images/rjceiah2022ws.png
-    alt: "Workshop "Learning analytics dashboard" @ RJC EIAH 2022"
-    title: 'RJC EIAH 2022 Worskhops, May 2022.'
-    excerpt: "Talk titled 'Outil de co-conception générative et de prototypage assisté de tableaux de bord d'apprentissage', Workshop Learning analytics dashboard @ RJC EIAH 2022, 11 May 2022 Lille."
-    url: "/media/presentations/rjceiah2022ws.pdf"
-    btn_label: "Presentation (.pdf)"
-    btn_class: "btn--inverse"
-
-feature_row_eiah2021ws:
-  - image_path: /assets/images/eiah2021ws.png
-    alt: "Workshop "Learning analytics dashboard" @ EIAH 2021"
-    title: 'EIAH 2021 Worskhops, May 2021.'
-    excerpt: "Talk titled 'Vers une Conception Participative de Tableaux de Bord d’Apprentissage supportant la Prise de Décision', Workshop Learning analytics dashboard @ EIAH 2021."
-    url: "/media/presentations/eiah2021ws.pdf"
-    btn_label: "Presentation (.pdf)"
-    btn_class: "btn--inverse"
 
 feature_row_phd:
   - image_path: /assets/images/phd_slides.png
